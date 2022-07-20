@@ -56,3 +56,4 @@ class Answer(Update):
     is_right = models.BooleanField(default=False)
     # updated = models.DateTimeField(auto_now=True)
      
+    
